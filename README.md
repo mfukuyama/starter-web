@@ -14,4 +14,4 @@ For practice
 Test
 
 #####Copyright
-xxx
+All rights reserved
